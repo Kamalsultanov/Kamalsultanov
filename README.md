@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**Kamalsultanov/Kamalsultanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 I'm Kamal
 
-Here are some ideas to get you started:
+I'm a Front-End Developer passionate about building interactive and user-friendly web applications. I specialize in React.js, modern JavaScript (ES6+), and responsive design. Currently, I'm expanding my skill set and working on projects that enhance my expertise in UI/UX development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Skills & Technologies: <b>Frontend</b> : React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS,Boostrap  <b>State Management</b>: React Context API, Redux  <b> Version Control: Git, GitHub</b>
+
+🌱 Currently Learning: Advanced React concepts, Next.js, GSAP, Three.js
+
+🔥 What I'm Working On:
+Rattan.az – A furniture website built with JavaScript and CSS, featuring a clean and responsive design.
+
+📫 Let's Connect!  LinkedIn: https://www.linkedin.com/in/kamal-sultanov/
